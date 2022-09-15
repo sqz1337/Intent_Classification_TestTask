@@ -1,6 +1,6 @@
 Test task for ELMA intent classification and flask deployment
 
-In **notebook/ELMO-tesk-task** I made EDA and Model with hyperparameters tuning
+In **notebook/ELMO-tesk-task** included EDA and Model with hyperparameters tuning
 ## Commands
 ```.bash
 #Before everything
